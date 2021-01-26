@@ -1,6 +1,6 @@
-[submodule "api"]
-	path = api
-	url = https://github.com/Kanatani28/submodule_sample_api.git
 [submodule "front"]
 	path = front
 	url = https://github.com/Kanatani28/submodule_sample_front.git
+[submodule "api"]
+	path = api
+	url = https://github.com/Kanatani28/submodule_sample_api.git
